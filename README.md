@@ -1,8 +1,4 @@
-# React + Vite
+This is a simple todo list app built with React and Vite template. 
+Allows you to store list items in local storage.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![todolist](https://github.com/JaroslawMajcherczyk/Weather-app/assets/74450237/3b7d0c2d-da21-45cd-b778-2b86ee54ec54)
