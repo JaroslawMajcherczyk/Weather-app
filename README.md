@@ -1,6 +1,17 @@
-This is a simple todo list app built with React and Vite template. 
+This is a weather app built with React and Vite template. 
 
 
-Allows you to store list items in local storage.
+Tools were used to create the application:
+-Tailwind CSS
+-IconScout
+-luxon
+-react-toastify
 
-![todolist](https://github.com/JaroslawMajcherczyk/Weather-app/assets/74450237/3b7d0c2d-da21-45cd-b778-2b86ee54ec54)
+API is downloaded from Openweather API: https://openweathermap.org/
+
+You can create an account there to generate your own private IPA key, but I leave mine in the code.
+
+![weather 1](https://github.com/JaroslawMajcherczyk/Weather-app/assets/74450237/d06b20bd-dc3e-471c-bb13-d3b84a9e499a)
+![weather 2](https://github.com/JaroslawMajcherczyk/Weather-app/assets/74450237/2681f2d0-8389-4358-8b7a-84d7ecbd47a5)
+
+Another possibility to develop the application are planning is to expand it with a map with global precipitation.
